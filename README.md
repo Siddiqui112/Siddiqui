@@ -1,5 +1,5 @@
 # Homework 1 - Git Practice
-# "My Information"
+# My Information
 
 * name: Muhammad Siddiqui
 * CWID: 867071276
